@@ -1,6 +1,6 @@
 # My-First-Blog
 
-- [goals] (#goals)
+- [goals](#goals)
 
 Welcome to my first blog. I tried my __best__.
 
